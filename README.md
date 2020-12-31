@@ -4,6 +4,9 @@ A pure css animated foldout hamburger menu originally made by Erik Terwan turned
 
 [![Edit vue-cool-burger](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/vue-cool-burger-cksvt?fontsize=14&hidenavigation=1&theme=dark)
 
+[![component in action](https://s2.gifyu.com/images/vue-cool-burger.gif)](https://s2.gifyu.com/images/vue-cool-burger.gif)
+
+
 ## usage
 
 ```bash
