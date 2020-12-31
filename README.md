@@ -51,3 +51,9 @@ if you want to assign an `id` to the inner checkbox and `for` to the label aroun
 #### [expanded] = `false`
 
 should it be rendered in cross form or not
+
+### events
+
+#### expanded: Boolean
+
+emits after the state of menu is changed. emits true if the new state is cross shape.
