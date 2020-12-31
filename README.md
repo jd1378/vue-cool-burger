@@ -6,8 +6,9 @@ An animated foldout hamburger menu turned into a vue component.
 
 [![component in action](https://s2.gifyu.com/images/vue-cool-burger.gif)](https://s2.gifyu.com/images/vue-cool-burger.gif)
 
-
 ## usage
+
+Important note: You need a wrapper with a defined width and height for this to work. check out the codesandbox for a quick demo.
 
 ```bash
 npm install vue-cool-burger
