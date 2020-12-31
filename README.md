@@ -29,3 +29,25 @@ export default {
   }
 }
 ```
+
+### props
+
+props shown with `[]` are optional
+
+#### [color] = `'#cdcdcd'`
+
+default color of menu bars
+
+#### [cross-color] = `'#cdcdcd'`
+
+the color of menu bars after transforming into cross
+
+#### [id] = `undefined`
+
+if you want to assign an `id` to the inner checkbox and `for` to the label around it
+
+#### [ariaLabel] = `'main menu'`
+
+#### [expanded] = `false`
+
+should it be rendered in cross form or not
