@@ -1,6 +1,6 @@
 # vue-cool-burger
 
-A pure css animated foldout hamburger menu originally made by Erik Terwan turned into a vue component.
+An animated foldout hamburger menu turned into a vue component.
 
 [![Edit vue-cool-burger](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/vue-cool-burger-cksvt?fontsize=14&hidenavigation=1&theme=dark)
 
@@ -62,3 +62,7 @@ should it be rendered in cross form or not
 #### expanded: Boolean
 
 emits after the state of menu is changed. emits true if the new state is cross shape.
+
+### credits
+
+original idea by Erik Terwan. but this works somewhat different now.
